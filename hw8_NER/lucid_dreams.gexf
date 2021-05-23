@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-05-24">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="сон" label="сон" />
+      <node id="человек" label="человек" />
+      <node id="время" label="время" />
+      <node id="сновидение" label="сновидение" />
+      <node id="тело" label="тело" />
+      <node id="рука" label="рука" />
+      <node id="жизнь" label="жизнь" />
+      <node id="астрал" label="астрал" />
+      <node id="мозг" label="мозг" />
+      <node id="реальность" label="реальность" />
+      <node id="мир" label="мир" />
+      <node id="вопрос" label="вопрос" />
+      <node id="выход" label="выход" />
+      <node id="день" label="день" />
+      <node id="практика" label="практика" />
+    </nodes>
+    <edges>
+      <edge source="сон" target="человек" id="0" weight="81" />
+      <edge source="сон" target="время" id="1" weight="94" />
+      <edge source="сон" target="сновидение" id="2" weight="68" />
+      <edge source="сон" target="тело" id="3" weight="55" />
+      <edge source="сон" target="рука" id="4" weight="39" />
+      <edge source="сон" target="жизнь" id="5" weight="45" />
+      <edge source="сон" target="астрал" id="6" weight="18" />
+      <edge source="сон" target="мозг" id="7" weight="26" />
+      <edge source="сон" target="реальность" id="8" weight="45" />
+      <edge source="сон" target="мир" id="9" weight="31" />
+      <edge source="сон" target="вопрос" id="10" weight="53" />
+      <edge source="сон" target="выход" id="11" weight="42" />
+      <edge source="сон" target="день" id="12" weight="47" />
+      <edge source="сон" target="практика" id="13" weight="41" />
+      <edge source="человек" target="время" id="14" weight="64" />
+      <edge source="человек" target="сновидение" id="15" weight="45" />
+      <edge source="человек" target="тело" id="16" weight="33" />
+      <edge source="человек" target="рука" id="17" weight="23" />
+      <edge source="человек" target="жизнь" id="18" weight="41" />
+      <edge source="человек" target="астрал" id="19" weight="9" />
+      <edge source="человек" target="мозг" id="20" weight="26" />
+      <edge source="человек" target="реальность" id="21" weight="29" />
+      <edge source="человек" target="мир" id="22" weight="21" />
+      <edge source="человек" target="вопрос" id="23" weight="24" />
+      <edge source="человек" target="выход" id="24" weight="22" />
+      <edge source="человек" target="день" id="25" weight="32" />
+      <edge source="человек" target="практика" id="26" weight="26" />
+      <edge source="время" target="сновидение" id="27" weight="42" />
+      <edge source="время" target="тело" id="28" weight="37" />
+      <edge source="время" target="рука" id="29" weight="31" />
+      <edge source="время" target="жизнь" id="30" weight="42" />
+      <edge source="время" target="астрал" id="31" weight="11" />
+      <edge source="время" target="мозг" id="32" weight="29" />
+      <edge source="время" target="реальность" id="33" weight="33" />
+      <edge source="время" target="мир" id="34" weight="22" />
+      <edge source="время" target="вопрос" id="35" weight="25" />
+      <edge source="время" target="выход" id="36" weight="23" />
+      <edge source="время" target="день" id="37" weight="38" />
+      <edge source="время" target="практика" id="38" weight="25" />
+      <edge source="сновидение" target="тело" id="39" weight="26" />
+      <edge source="сновидение" target="рука" id="40" weight="16" />
+      <edge source="сновидение" target="жизнь" id="41" weight="20" />
+      <edge source="сновидение" target="астрал" id="42" weight="10" />
+      <edge source="сновидение" target="мозг" id="43" weight="15" />
+      <edge source="сновидение" target="реальность" id="44" weight="21" />
+      <edge source="сновидение" target="мир" id="45" weight="15" />
+      <edge source="сновидение" target="вопрос" id="46" weight="26" />
+      <edge source="сновидение" target="выход" id="47" weight="23" />
+      <edge source="сновидение" target="день" id="48" weight="21" />
+      <edge source="сновидение" target="практика" id="49" weight="27" />
+      <edge source="тело" target="рука" id="50" weight="17" />
+      <edge source="тело" target="жизнь" id="51" weight="22" />
+      <edge source="тело" target="астрал" id="52" weight="16" />
+      <edge source="тело" target="мозг" id="53" weight="11" />
+      <edge source="тело" target="реальность" id="54" weight="20" />
+      <edge source="тело" target="мир" id="55" weight="18" />
+      <edge source="тело" target="вопрос" id="56" weight="20" />
+      <edge source="тело" target="выход" id="57" weight="29" />
+      <edge source="тело" target="день" id="58" weight="21" />
+      <edge source="тело" target="практика" id="59" weight="25" />
+      <edge source="рука" target="жизнь" id="60" weight="15" />
+      <edge source="рука" target="астрал" id="61" weight="4" />
+      <edge source="рука" target="мозг" id="62" weight="6" />
+      <edge source="рука" target="реальность" id="63" weight="16" />
+      <edge source="рука" target="мир" id="64" weight="8" />
+      <edge source="рука" target="вопрос" id="65" weight="14" />
+      <edge source="рука" target="выход" id="66" weight="10" />
+      <edge source="рука" target="день" id="67" weight="17" />
+      <edge source="рука" target="практика" id="68" weight="12" />
+      <edge source="жизнь" target="астрал" id="69" weight="6" />
+      <edge source="жизнь" target="мозг" id="70" weight="20" />
+      <edge source="жизнь" target="реальность" id="71" weight="19" />
+      <edge source="жизнь" target="мир" id="72" weight="15" />
+      <edge source="жизнь" target="вопрос" id="73" weight="19" />
+      <edge source="жизнь" target="выход" id="74" weight="11" />
+      <edge source="жизнь" target="день" id="75" weight="22" />
+      <edge source="жизнь" target="практика" id="76" weight="18" />
+      <edge source="астрал" target="реальность" id="77" weight="4" />
+      <edge source="астрал" target="мир" id="78" weight="9" />
+      <edge source="астрал" target="вопрос" id="79" weight="6" />
+      <edge source="астрал" target="выход" id="80" weight="17" />
+      <edge source="астрал" target="день" id="81" weight="4" />
+      <edge source="астрал" target="практика" id="82" weight="11" />
+      <edge source="мозг" target="реальность" id="83" weight="8" />
+      <edge source="мозг" target="мир" id="84" weight="7" />
+      <edge source="мозг" target="вопрос" id="85" weight="11" />
+      <edge source="мозг" target="выход" id="86" weight="3" />
+      <edge source="мозг" target="день" id="87" weight="14" />
+      <edge source="мозг" target="практика" id="88" weight="7" />
+      <edge source="реальность" target="мир" id="89" weight="12" />
+      <edge source="реальность" target="вопрос" id="90" weight="20" />
+      <edge source="реальность" target="выход" id="91" weight="11" />
+      <edge source="реальность" target="день" id="92" weight="15" />
+      <edge source="реальность" target="практика" id="93" weight="16" />
+      <edge source="мир" target="вопрос" id="94" weight="12" />
+      <edge source="мир" target="выход" id="95" weight="12" />
+      <edge source="мир" target="день" id="96" weight="8" />
+      <edge source="мир" target="практика" id="97" weight="11" />
+      <edge source="вопрос" target="выход" id="98" weight="10" />
+      <edge source="вопрос" target="день" id="99" weight="18" />
+      <edge source="вопрос" target="практика" id="100" weight="13" />
+      <edge source="выход" target="день" id="101" weight="9" />
+      <edge source="выход" target="практика" id="102" weight="19" />
+      <edge source="день" target="практика" id="103" weight="14" />
+    </edges>
+  </graph>
+</gexf>
