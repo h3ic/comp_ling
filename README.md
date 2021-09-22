@@ -1,4 +1,4 @@
-# Computational linguistics CS22
+# Computational linguistics CS224
 
 1. Data Scraping
 2. Regular expressions
