@@ -1,4 +1,4 @@
-# Computational linguistics CS224
+# Computational linguistics CS22
 
 1. Data Scraping
 2. Regular expressions
@@ -9,3 +9,5 @@
 7. Word embeddings; word2vec
 8. Key Words graph
 9. Document Clustering using NER
+
+Synthetic index: algorithm to compute the synthetic index of a given text using Tikhonov morpheme dictionary
